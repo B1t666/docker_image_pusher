@@ -1,1 +1,1 @@
-mcc0624/ser:1.8
+bitnami/apache:2.4.54

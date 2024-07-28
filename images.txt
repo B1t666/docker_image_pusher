@@ -1,1 +1,1 @@
-redis4.0.14
+bitnami/redis:4.0.14
